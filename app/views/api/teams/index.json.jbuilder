@@ -1,2 +1,2 @@
 json.name "brian"
-json.name "tiffany"
+json.my_name "tiffany"
