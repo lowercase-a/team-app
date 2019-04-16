@@ -5,6 +5,6 @@ json.better_name "Joey"
 json.even_better_name "Adrian"
 json.name "Uwana"
 json.mein_name "Sean"
-json.way_way_way_better_name "Preston"
+json.revolution_is_my_name "Preston"
 json.u_know_my_name "Brandon"
 
