@@ -1,2 +1,2 @@
 json.name "brian"
-json.SpAcEfUnK "SpaceFunk"
+json.SpAcEfUnK "(=*~-SpaceFunk-~*=)"
