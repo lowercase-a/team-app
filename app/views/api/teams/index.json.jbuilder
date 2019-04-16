@@ -1,4 +1,6 @@
 json.name "brian"
+json.name "Videsh"
+json.name2 "susmita"
 json.better_name "Joey"
 <<<<<<< HEAD
 json.even_better_name "Adrian"
