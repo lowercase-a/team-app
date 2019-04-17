@@ -1,0 +1,2 @@
+class TonyCurti < ApplicationRecord
+end
