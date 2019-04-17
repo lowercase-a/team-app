@@ -6,4 +6,3 @@ Rails.application.routes.draw do
     get '/teams/:id' => 'teams#show'
   end
 end
-  
