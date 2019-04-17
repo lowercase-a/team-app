@@ -184,10 +184,8 @@ DEPENDENCIES
   web-console (>= 3.3.0)
 
 RUBY VERSION
-<<<<<<< HEAD
-=======
-   ruby 2.5.3p105
->>>>>>> bdee91d9bd4a28151411ebf16fac6e1cb4be3e25
+
+
    ruby 2.6.1p33
 
 BUNDLED WITH

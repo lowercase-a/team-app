@@ -3,9 +3,10 @@ Rails.application.routes.draw do
   # verb "/urls" => "namespace/controllers#action"
   namespace :api do
     get '/teams' => 'teams#index'
+    get '/unicorns' => 'unicorns#index'
+    get '/teams/:id' => 'teams#show'
   end
 
   get '/messages' => 'messages#index'
 
 end
-  
