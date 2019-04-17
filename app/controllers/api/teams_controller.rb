@@ -7,4 +7,5 @@ class Api::TeamsController < ApplicationController
     @id = params[:id]
     render 'show.json.jbuilder'
   end
+
 end
