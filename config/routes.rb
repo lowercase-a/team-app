@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   # verb "/urls" => "namespace/controllers#action"
   namespace :api do
     get '/teams' => 'teams#index'
+    get '/haymes' => 'haymes#index'
   end
 end
   
