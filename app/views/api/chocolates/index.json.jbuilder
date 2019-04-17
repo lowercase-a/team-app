@@ -1,0 +1,1 @@
+json.message "Chocolate is love. Chocolate is life."
