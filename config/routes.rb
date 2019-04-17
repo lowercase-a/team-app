@@ -7,9 +7,8 @@ Rails.application.routes.draw do
     get '/unicorns' => 'unicorns#index'
     get '/teams/:id' => 'teams#show'
     get '/tony_curtis' => 'tony_curtis#index'
+    get '/quotes' => 'quotes#index'
+    get '/messages' => 'messages#index'
   end
 
-  namespace :api do
-    get '/quotes' => 'quotes#index'
-  end
-end
+
