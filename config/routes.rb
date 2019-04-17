@@ -4,5 +4,9 @@ Rails.application.routes.draw do
   namespace :api do
     get '/teams' => 'teams#index'
   end
+
+  namespace :api do
+    get '/quotes' => 'quotes#index'
+  end
 end
   
