@@ -1,4 +1,4 @@
-class Api::TonyCurtisController < ApplicationController
+git class Api::TonyCurtisController < ApplicationController
 
   def index
     render 'index.json.jbuilder'
