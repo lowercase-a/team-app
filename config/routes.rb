@@ -4,9 +4,17 @@ Rails.application.routes.draw do
   namespace :api do
     get '/teams' => 'teams#index'
     get '/greetings' => 'greetings#index'
+    get '/haymes' => 'haymes#index'
+
+    get '/teams/:id' => 'teams#show'
     get '/chocolates' => 'chocolates#indegix'
     get '/unicorns' => 'unicorns#index'
     get '/teams/:id' => 'teams#show'
     get '/tony_curtis' => 'tony_curtis#index'
+
+    get '/quotes' => 'quotes#index'
+    get '/messages' => 'messages#index'
+
   end
-end
+
+
