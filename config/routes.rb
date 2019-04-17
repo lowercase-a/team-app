@@ -13,6 +13,8 @@ Rails.application.routes.draw do
     get '/chocolates' => 'chocolates#indegix'
     get '/unicorns' => 'unicorns#index'
     get '/teams/:id' => 'teams#show'
+
+    get '/nihilists' => 'nihilists#index'
     get '/tony_curtis' => 'tony_curtis#index'
 
     get '/quotes' => 'quotes#index'
