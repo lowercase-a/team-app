@@ -4,6 +4,7 @@ Rails.application.routes.draw do
   namespace :api do
     get '/teams' => 'teams#index'
     get '/chocolates' => 'chocolates#index'
+    get '/unicorns' => 'unicorns#index'
     get '/teams/:id' => 'teams#show'
   end
 end
